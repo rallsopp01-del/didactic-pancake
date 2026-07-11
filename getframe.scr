@@ -1,0 +1,14 @@
+#!/bin/csh
+#SBATCH --ntasks=1
+#SBATCH -N 1
+#SBATCH -p debug
+#SBATCH --job-name=getframe
+#SBATCH -t 00:05:00
+
+#cd $SLURM_SUBMIT_DIR
+set chm = "/homes/jbklauda/charmm/c43b1/exec/gnu/charmm"
+
+# INVOKE CHARMM where NF is the number of DCD files
+$chm < getframe.inp >& getframe.out
+
+sbatch restrain.csh

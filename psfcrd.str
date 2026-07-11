@@ -1,0 +1,12 @@
+* psf and coord for bilayer
+*
+
+open read unit 2 card name ./psfcrd/step5_assembly.psf
+read psf card unit 2
+close unit 2
+
+open unit 2 read card name ./psfcrd/step5_assembly.crd
+read coor card unit 2
+close unit 2
+
+return

@@ -1,0 +1,35 @@
+! revPBE D4 def2-SVP GCP(DFT/SVP) def2-SVP/C RIJCOSX COPT NUMFREQ EXTREMESCF
+
+! MORead
+%moinp "setup_1_restart.gbw"
+
+%freq
+restart true
+end
+
+
+%scf
+  Convergence
+             Extreme
+end
+
+!verytightopt
+
+%method
+FrozenCore FC_ELECTRONS
+Correlation c_LYP
+end
+#! NumGrad
+
+
+%PAL NPROCS 32 END
+ 
+#%qmmm
+# #ActiveAtoms {277:414} end
+# Use_Active_InfoFromPDB true
+# Use_QM_InfoFromPDB true
+# ORCAFFFilename "recenter.ORCAFF.prms"
+#end
+
+*pdbfile 0 1 setup_1_restart.pdb 
+

@@ -1,0 +1,26 @@
+!QMMM revPBE D4 def2-TZVP GCP(DFT/TZ) def2-TZVP/C RIJCOSX COPT NumFreq TIGHTSCF
+
+%scf
+  Convergence
+             Tight
+end
+
+#!verytightopt
+
+#%method
+#FrozenCore FC_ELECTRONS
+#Correlation c_LYP
+#end
+#! NumGrad
+
+
+%PAL NPROCS 31 END
+ 
+%qmmm
+ #ActiveAtoms {277:414} end
+ Use_Active_InfoFromPDB true
+ Use_QM_InfoFromPDB true
+ ORCAFFFilename "recenter.ORCAFF.prms"
+end
+
+*pdbfile 0 1 setup.pdb 

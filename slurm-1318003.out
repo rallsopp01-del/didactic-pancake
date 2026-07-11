@@ -1,0 +1,3704 @@
+Can't load history: $< line too long.
+ERROR: Unable to locate a modulefile for 'vmd'
+ERROR: Unable to locate a modulefile for 'charmm'
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+1
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+2
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+3
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+4
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+5
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+6
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+7
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+8
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+9
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+10
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+11
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+12
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+13
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+14
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+15
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+16
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+17
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+18
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+19
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+20
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+21
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+22
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+23
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+24
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+25
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+26
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+27
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+28
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+29
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+30
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+31
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+32
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+33
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+34
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+35
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+36
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+37
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+38
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+39
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+40
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+41
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+42
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+43
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+44
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+45
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+46
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+47
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+48
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+49
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+50
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+51
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+52
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+53
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+54
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+55
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+56
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+57
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+58
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+59
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+60
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+61
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+62
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+63
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+64
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+65
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+66
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+67
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+68
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+69
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+70
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+71
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+72
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+73
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+74
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+75
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+76
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+77
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+78
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+79
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+80
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+81
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+82
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+83
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+84
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+85
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+86
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+87
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+88
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+89
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+90
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+91
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+92
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+93
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+94
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+95
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+96
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+97
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+98
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+99
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.
+/ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /lib64/libGL.so.1: no version information available (required by /ibbr/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 121GB (96%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 2 plugins in directory:
+Info) /ibbr/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+100
+Info) Using plugin pdb for structure file ./recenter.pdb
+Info) Using plugin pdb for coordinates from file ./recenter.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 28820
+Info)    Bonds: 23700
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 5120
+Info)    Waters: 5000
+Info)    Segments: 3
+Info)    Fragments: 5120   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file ./recenter.pdb.
+0
+atomselect0
+atomselect1
+Info) Opened coordinate file memb.pdb for writing.
+Info) Finished with coordinate file memb.pdb.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+Can't load history: $< line too long.
+Can't load history: $< line too long.

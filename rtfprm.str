@@ -1,0 +1,7 @@
+* RTF/PRM
+*
+
+! Read topology and parameter files
+stream toppar.str
+
+return

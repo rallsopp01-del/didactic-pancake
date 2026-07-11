@@ -1,0 +1,97 @@
+no change     /ibbr/miniconda3/condabin/conda
+no change     /ibbr/miniconda3/bin/conda
+no change     /ibbr/miniconda3/bin/conda-env
+no change     /ibbr/miniconda3/bin/activate
+no change     /ibbr/miniconda3/bin/deactivate
+no change     /ibbr/miniconda3/etc/profile.d/conda.sh
+no change     /ibbr/miniconda3/etc/fish/conf.d/conda.fish
+no change     /ibbr/miniconda3/shell/condabin/Conda.psm1
+no change     /ibbr/miniconda3/shell/condabin/conda-hook.ps1
+no change     /ibbr/miniconda3/lib/python3.9/site-packages/xontrib/conda.xsh
+no change     /ibbr/miniconda3/etc/profile.d/conda.csh
+no change     /home/allsoppr/.bashrc
+No action taken.
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/1/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/1/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+(138, 414)
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/1/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+(138, 414)
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/2/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/2/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+(138, 414)
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/2/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+(138, 414)
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/3/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/3/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+(138, 414)
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/3/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+(138, 414)
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/4/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/4/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+(138, 414)
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/4/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+(138, 414)
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/5/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/5/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+(138, 414)
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/5/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+(138, 414)
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/6/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/6/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+(138, 414)
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/6/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+(138, 414)
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/7/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/7/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+(138, 414)
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/7/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+(138, 414)
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/8/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/8/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/8/code_so_far_z.py:211: RuntimeWarning: invalid value encountered in divide
+  int_dist=pandas.DataFrame(np.divide(np.array(rankedsum), np.array(gausssum)))
+(138, 414)
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/8/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/8/code_so_far_r.py:205: RuntimeWarning: invalid value encountered in divide
+  int_dist=pandas.DataFrame(np.divide(np.array(rankedsum), np.array(gausssum)))
+(138, 414)
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/9/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/9/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+(138, 414)
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/9/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+(138, 414)
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/10/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/10/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+(138, 414)
+/mnt/commons/meuse/allsoppr/qm_final/qm_final_1.1_github_testing/qm/x_y_z_order_of_events_all_wn/10/orca-ir.py:133: SyntaxWarning: invalid escape sequence '\d'
+  if re.search("\d:",line): 
+(138, 414)

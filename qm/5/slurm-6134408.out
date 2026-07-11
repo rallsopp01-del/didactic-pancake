@@ -1,0 +1,8 @@
+==========================================
+SLURM_JOB_ID = 6134408
+SLURM_JOB_NODELIST = bb042
+==========================================
+ERROR: Unable to locate a modulefile for 'orca/6.0.1/'
+ERROR: Unable to locate a modulefile for 'ucx/1.13.1'
+cp: cannot stat 'freq.pdb': No such file or directory
+cp: cannot stat 'freq.gbw': No such file or directory

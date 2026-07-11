@@ -1,0 +1,50 @@
+* Recenters about bilayer, second pass
+*
+
+DIMENS CHSIZE 1000000
+bomblev -2
+! Update the equlb. file range
+set fdyn = 151	! First traj. in series
+set ldyn = 151	! Last traj. in series
+set ts = 200   ! Number of data points in each DYN file
+
+stream rtfprm.str	! Stream in toppology/parameter files
+stream psfcrd.str	! Stream in structure/cooridnate files
+stream cryst.str	! Crystal info MUST be read in before merge
+
+! Read in trajectory, recenter, write out recentered trajectory
+! Header information is changed durring the first recentering
+! Trajectories are looped within the submission script to avoid EOF issues
+set ru = 9
+set wu = 109
+set j = @fdyn	! First trajectory in series
+#prnlv 1 	! There will be large ammounts of output without suppression
+
+! Loop over all trajectories in series
+label lp3
+
+!open read unit @ru file name ../../dyn@j.dcd	! Recentered traj. from first pass
+open read unit @ru file name dyn@j-recenter-tmp2.dcd	! Recentered traj. from first pass
+open write unit @wu file name dyn@j-recenter.dcd		! Recentered traj.
+
+traj firstu @ru nunit 1 iwrite @wu 
+
+set i 1
+label lpf
+traj read
+coor stat sele segid MEMB .and. resid @resid end
+
+coor trans xdir -?XAVE sele all end
+coor trans ydir -?YAVE sele all end
+coor trans zdir -?ZAVE sele all end
+
+traj write
+incr i by 1
+if i le @ts goto lpf
+
+increment ru by 1
+increment wu by 1
+increment j by 1
+if @j le @ldyn goto lp3
+
+stop

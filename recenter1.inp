@@ -1,0 +1,34 @@
+* Recenters about bilayer about a single lipid
+*
+
+DIMENS CHSIZE 1000000
+bomblev -2
+
+! limit calculations to last 25 ns of simulation to minimize calculations
+set fdyn = 151	! First traj. in series
+set ldyn = 151	! Last traj. in series
+set ts = 200   ! number of data points in each DYN files
+
+stream rtfprm.str	! Stream in toppology/parameter files
+stream psfcrd.str	! Stream in structure/coordinate files
+stream cryst.str	! Stream in crystal information
+		        ! Crystal info MUST be read in prior to recentering
+
+! Read in trajectory, recenter, write out recentered trajectory
+set ru = 9		! Unit reading in trajectory
+set wu = 109	! Unit for writen trajectory
+set j = @fdyn	! First trajectory in series
+prnlv 3 		! Output file will be large without suppressing print level
+
+open read unit @ru file name ./psfcrd/dyn@dnum.dcd		! Read original trajectory
+open write unit @wu file name dyn@dnum-recenter-tmp.dcd	! Write recenered traj. here
+
+! Recenter the trajectory
+! NOTE: choose a lipid towards the center of the bilayer for best results
+merge first @ru nunit 1 nfile @ts output @wu -
+ sele all end -
+ recenter -
+ orient norot sele segid MEMB .and. resid @resid end 
+
+
+stop

@@ -1,0 +1,3 @@
+#!/bin/csh
+
+sbatch -A energybio recenter2.csh

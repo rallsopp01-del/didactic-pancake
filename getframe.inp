@@ -1,0 +1,27 @@
+! Read in topology and parameter files
+
+DIMENS CHSIZE 3000000
+bomblev -2
+
+stream rtfprm.str	! Stream in toppology/parameter files
+stream psfcrd.str	! Stream in structure/cooridnate files
+stream cryst.str	! Crystal info MUST be read in before merge
+
+open unit 11 read file name ./dyn@dnum-recenter.dcd
+read coor file unit 11 ifile 5
+close unit 11
+
+?XTLA
+?XTLB
+?XTLC
+
+write psf card name recenter.psf
+*dummy
+*
+
+write coor pdb name recenter.pdb
+*dummy
+*
+stop
+
+
