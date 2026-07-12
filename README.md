@@ -22,13 +22,13 @@ After each folder completes there should be a count_dist_r.csv and a count_dist_
 
 Count_dist_z.csv in folder 1
 
-Wavenumber	Count	Z-Center Calculated for the mode
+Wavenumber	    Count	Z-Center Calculated for the mode
 
 21.85	        244.0	48.543909171790034
 
 Count_dist_r.csv in folder 1
 
-Wavenumber	Count	R-Center Calculated for the mode
+Wavenumber	    Count	R-Center Calculated for the mode
 
 21.85	        124.0	3.5282975215294865
 
