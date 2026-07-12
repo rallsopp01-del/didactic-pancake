@@ -1,7 +1,11 @@
 This tutorial shows how to use 2D-COS methodologies in an automated framework with 3 phases to generate a corrolation between the correspondence in the order of positions and predicted RMSD.
 
+
+
 Phase 0:
 ** see phase two for an addition to this section of the workflow.
+
+
 
 Calculate the quantum mechanics (QM) spectra of DOPC lipid. The lipid must be recentered for the radial orders of positions to mean anything. Then for the Z order of events to be compared with each other the Z dimension needs to be uncentered so that the common center is the center of mass (COM) of the bilayer. This is implemented in conv_run.sh in the outter folder and can be modified to spawn runs in the QM folder and recenter the bilayer in charmm software.
 
@@ -9,8 +13,12 @@ For loop takes lipid 1 -> recenters lipid 1 -> extracts pdb of just lipid 1 -> s
 
 Run as many lipids as needed by adjusting the for loop to consider as many frames and lipids within the bialyer as necessary.
 
+
+
 Phase 1: 
 Calculate the order of positions. For demonstration purposes look at folder QM/x_y_z_order_of_events_all_wn/
+
+
 
 sbatch executable_ooe.sh
 
@@ -36,6 +44,8 @@ Wavenumber	 |   Count  | R-Center Calculated for the mode
 
 
 To check that these orderings were correct I used a program called PyVibMS and it is important to check the orientation in the pymol viewer against the absolute axis in VMD https://github.com/smutao/PyVibMS
+
+
 
 Phase 2: 
 The next phase occurs in the folders with the %3A
