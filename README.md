@@ -60,7 +60,7 @@ for i in {1..50..1}; do
 Where the 1 to 50 represents the lipids in the first leaflet of the bilayer. The initial code split the lipids into six groups (first leaflet to first leaflet, first leaflet to second leaflet, and second leaflet to second leaflet). 
 
 Addition to phase 0 **
-It is easier to actually flip all the second leaflet lipids during the recentering step and treat them all the same rather than having several separate folders that treat different parts later. Then just use the one for loop for the whole bilayer. I included the actual workflow used as well as an alternative. 
+It is easier to actually flip all the second leaflet lipids during the recentering step and treat them all the same rather than having several separate folders that treat different parts later. Then just use the one for loop for the whole bilayer. I included the actual workflow used as well as this implementable alternative. 
 
 Launching this extract.sh file generates an r2a.txt file that contains the following:
 
