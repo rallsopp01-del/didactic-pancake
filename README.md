@@ -8,4 +8,5 @@ For loop takes lipid 1 -> recenters lipid 1 -> extracts pdb of just lipid 1 -> s
 Run as many lipids as needed by adjusting the for loop to consider as many frames and lipids within the bialyer as necessary.
 
 Phase 1: 
-Calculate the order of positions. For demonstration purposes look at folder QM/
+Calculate the order of positions. For demonstration purposes look at folder QM/x_y_z_order_of_events_all_wn/
+
