@@ -22,15 +22,15 @@ After each folder completes there should be a count_dist_r.csv and a count_dist_
 
 Count_dist_z.csv in folder 1
 
-Wavenumber	    Count	Z-Center Calculated for the mode
+Wavenumber	 |   Count	| Z-Center Calculated for the mode
 
-21.85	        244.0	48.543909171790034
+21.85	     |   244.0  | 48.543909171790034
 
 Count_dist_r.csv in folder 1
 
-Wavenumber	    Count	R-Center Calculated for the mode
+Wavenumber	 |   Count  | R-Center Calculated for the mode
 
-21.85	        124.0	3.5282975215294865
+21.85	     |   124.0	| 3.5282975215294865
 
 **** probably remove those and commit changes *** Not all of the wavenumbers were considered here, because some of the really low wavenumber modes had intensities of 0 so there is a way to control how many modes are used. 
 
@@ -64,19 +64,19 @@ It is easier to actually flip all the second leaflet lipids during the recenteri
 
 Launching this extract.sh file generates an r2a.txt file that contains the following:
 
-RMSD for Z or Z+R   R^2>0.99               Counts Folder Pair Combination
+RMSD for Z or Z+R  |  R^2>0.99         |      Counts Folder Pair Combination
 
- 2.383030880423098  0.9902360030342431    300    1_2
+ 2.383030880423098 | 0.9902360030342431   | 300    |  1_2
  
- 2.826369366231348  0.9902093137636016     278    1_3
+ 2.826369366231348 | 0.9902093137636016   |  278   |  1_3
  
- 2.9867220201189393 0.9902254095886864     301    1_4
+ 2.9867220201189393 | 0.9902254095886864  |   301  |  1_4
  
- 3.2444515005725587 0.9900397280816947     287    1_5
+ 3.2444515005725587 | 0.9900397280816947  |   287  |  1_5
  
- 2.0194825483795573 0.9900699975881773     314    1_6
+ 2.0194825483795573 | 0.9900699975881773  |   314  |  1_6
  
- 3.254804540201345  0.9900574135458136     309    1_7
+ 3.254804540201345  | 0.9900574135458136  |   309  |  1_7
 
 
 
