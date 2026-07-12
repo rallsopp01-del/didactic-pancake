@@ -11,8 +11,11 @@ Run as many lipids as needed by adjusting the for loop to consider as many frame
 
 Phase 1: 
 Calculate the order of positions. For demonstration purposes look at folder QM/x_y_z_order_of_events_all_wn/
+
 sbatch executable_ooe.sh
+
 Where the number of qm spectra can be controlled with the for loop in this case there were 10 qm simulations.
+
 for i in  {1..10..1}
 
 After each folder completes there should be a count_dist_r.csv and a count_dist_z.csv file in each folder. 
