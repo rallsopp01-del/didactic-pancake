@@ -74,7 +74,7 @@ It is easier to actually flip all the second leaflet lipids during the recenteri
 
 Launching this extract.sh file generates an r2a.txt file that contains the following:
 
-RMSD for Z or Z+R  |  R^2>0.99         |      Counts Folder Pair Combination
+RMSD for Z or Z+R  |  R^2>0.99         |      Counts | Folder Pair Combination
 
  2.383030880423098 | 0.9902360030342431   | 300    |  1_2
  
