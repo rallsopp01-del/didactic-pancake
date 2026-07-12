@@ -21,11 +21,15 @@ for i in  {1..10..1}
 After each folder completes there should be a count_dist_r.csv and a count_dist_z.csv file in each folder. 
 
 Count_dist_z.csv in folder 1
+
 Wavenumber	Count	Z-Center Calculated for the mode
+
 21.85	        244.0	48.543909171790034
 
 Count_dist_r.csv in folder 1
+
 Wavenumber	Count	R-Center Calculated for the mode
+
 21.85	        124.0	3.5282975215294865
 
 **** probably remove those and commit changes *** Not all of the wavenumbers were considered here, because some of the really low wavenumber modes had intensities of 0 so there is a way to control how many modes are used. 
@@ -36,14 +40,21 @@ To check that these orderings were correct I used a program called PyVibMS and i
 Phase 2: 
 The next phase occurs in the folders with the %3A
 1%3A50_1%3A50
+
 1%3A50_1%3A50_r
+
 1%3A50_51%3A100
+
 1%3A50_51%3A100_r
+
 51%3A100_51%3A100
+
 51%3A100_51%3A100_r
+
 They read in the files generated in the x_y_z_order_of_events_all_wn folder. The first thing to adjust is the extract.sh file to edit the following line:
 
 for i in {1..50..1}; do
+
 	for j in  $(seq $((i + 1)) 50) ; do
 
 Where the 1 to 50 represents the lipids in the first leaflet of the bilayer. The initial code split the lipids into six groups (first leaflet to first leaflet, first leaflet to second leaflet, and second leaflet to second leaflet). 
@@ -54,12 +65,19 @@ It is easier to actually flip all the second leaflet lipids during the recenteri
 Launching this extract.sh file generates an r2a.txt file that contains the following:
 
 RMSD for Z or Z+R   R^2>0.99               Counts Folder Pair Combination
+
  2.383030880423098  0.9902360030342431    300    1_2
+ 
  2.826369366231348  0.9902093137636016     278    1_3
+ 
  2.9867220201189393 0.9902254095886864     301    1_4
+ 
  3.2444515005725587 0.9900397280816947     287    1_5
+ 
  2.0194825483795573 0.9900699975881773     314    1_6
+ 
  3.254804540201345  0.9900574135458136     309    1_7
+
 
 
 
