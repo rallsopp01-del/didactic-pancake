@@ -62,7 +62,7 @@ submatrix_rows=int(lines[result2[0]-9].strip()[0:3])+1 #add the number 1 to the 
 data=np.array(data)
 submatrices = [data[i:i + submatrix_rows] for i in range(0, data.shape[0], submatrix_rows)]
 final_matrix = np.hstack(submatrices)
-final_matrix1 = pandas.DataFrame(final_matrix)
+final_matrix1 = pandas.DataFrame(final_matrix) # M(i,j) defined
 
 #
 #averaging the three X,Y,Z displacements into one score ################should be sqrt(X^2+Y^2+Z^2)
@@ -72,7 +72,7 @@ final_matrix1 = pandas.DataFrame(final_matrix)
 averaged_df = pd.DataFrame()
 averaged_df = averaged_df[0:198-60]
 
-averaged_df = []
+averaged_df = [] #Creates the Snm(k,j)
 # Iterate through the columns and calculate the mean for each group of 3 rows
 for col in final_matrix1.columns:
     # Group every three rows and calculate the mean
@@ -146,25 +146,20 @@ with open(output_file, 'w') as file:
 extracted_df=averaged_df.iloc[0:(0+138),(len(normalized_df.T)-414):len(normalized_df.T)]
 
 
-
+#These lines from 150 down to 162 are equivilant to Cxi=sum from 0 to i (yi*xi)/ sum from 0 to i (yi)
 normalized_df = extracted_df.div(extracted_df.sum(axis=0), axis=1)
 df_zcoords = pd.read_csv('freq.activeRegion.xyz', header=1, delimiter=' ', skipinitialspace=True)
 #to get this we need an updated recentered membrane around each lipid and use those positions here
 df_zcoords_whole = pd.read_csv('memb.txt', header=None, delimiter=' ', skipinitialspace=True)
 df_zcoords.iloc[:,3]
+#The re-scaling occurs here with the offset of 40
+#Here P(k,j)=df_zcoords.iloc[:,3]
 df_zcoords=df_zcoords.iloc[:,3]-df_zcoords_whole.mean().values+40
-
 #c=normalized_df.multiply(df_zcoords.iloc[:,3], axis=0)  ##normalized_df
 c=normalized_df.multiply(df_zcoords.values, axis=0)  ##normalized_df
 #fraction of total motions// what is that
 #
-
-cm=c.mean()
-
-
-cm.to_csv('ranked_modes.csv')
-
-
+#This is the last step in the normalization
 cm=c.sum()
 cm.to_csv('ranked_modes_1.csv')
 
