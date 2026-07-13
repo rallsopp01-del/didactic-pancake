@@ -1,9 +1,9 @@
-This tutorial shows how to use 2D-COS methodologies in an automated framework with 3 phases to generate a correlation between the correspondence in the order of positions and predicted RMSD.
+This tutorial shows how to use 2D-COS methodologies in an automated framework with 3 steps to generate a correlation between the correspondence in the order of positions and predicted RMSD.
 
 
 
-Phase 0:
-** see phase two for an addition to this section of the workflow.
+Step 0:
+** see step two for an addition to this section of the workflow.
 
 
 
@@ -15,7 +15,7 @@ Run as many lipids as needed by adjusting the for loop to consider as many frame
 
 
 
-Phase 1: 
+Step 1: 
 Calculate the order of positions. For demonstration purposes look at folder QM/x_y_z_order_of_events_all_wn/
 
 
@@ -47,8 +47,8 @@ To check that these orderings were correct I used a program called PyVibMS and i
 
 
 
-Phase 2: 
-The next phase occurs in the folders with the %3A
+Step 2: 
+The next step occurs in the folders with the %3A
 1%3A50_1%3A50
 
 1%3A50_1%3A50_r
@@ -69,7 +69,7 @@ for i in {1..50..1}; do
 
 Where the 1 to 50 represents the lipids in the first leaflet of the bilayer. The initial code split the lipids into six groups (first leaflet to first leaflet, first leaflet to second leaflet, and second leaflet to second leaflet). 
 
-Addition to phase 0 **
+Addition to step 0 **
 It is easier to actually flip all the second leaflet lipids during the recentering step and treat them all the same rather than having several separate folders that treat different parts later. Then just use the one for loop for the whole bilayer. I included the actual workflow used as well as this implementable alternative. 
 
 Launching this extract.sh file generates an r2a.txt file that contains the following:
