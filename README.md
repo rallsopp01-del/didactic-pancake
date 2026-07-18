@@ -16,11 +16,11 @@ Run as many lipids as needed by adjusting the for loop to consider as many frame
 
 
 Step 1: 
-Calculate the order of positions. For demonstration purposes look at folder QM/x_y_z_order_of_events_all_wn/
+Calculate the order of positions. For demonstration purposes:
 
+'cd QM/x_y_z_order_of_events_all_wn/'
+'sbatch executable_ooe.sh'
 
-
-sbatch executable_ooe.sh
 
 Where the number of qm spectra can be controlled with the for loop in this case there were 10 qm simulations.
 
@@ -52,14 +52,16 @@ The next step occurs in the folders with the %3A
 1%3A50_1%3A50
 
 1%3A50_1%3A50_r
-
+'sbatch extract.sh'
 1%3A50_51%3A100
-
+'sbatch extract.sh'
 1%3A50_51%3A100_r
-
+'sbatch extract.sh'
 51%3A100_51%3A100
-
+'sbatch extract.sh'
 51%3A100_51%3A100_r
+'sbatch extract.sh'
+
 
 They read in the files generated in the x_y_z_order_of_events_all_wn folder. The first thing to adjust is the extract.sh file to edit the following line:
 
