@@ -49,24 +49,23 @@ To check that these orderings were correct I used a program called PyVibMS and i
 
 Step 2: 
 The next step occurs in the folders with the %3A
-1%3A50_1%3A50
+	cd 1%3A50_1%3A50
+	sbatch extract.sh
 
+	cd 1%3A50_1%3A50_r
 	sbatch extract.sh
-1%3A50_1%3A50_r
 
+	cd 1%3A50_51%3A100
 	sbatch extract.sh
-1%3A50_51%3A100
-	
-	sbatch extract.sh
-1%3A50_51%3A100_r
-	
-	sbatch extract.sh
-51%3A100_51%3A100
-	
-	sbatch extract.sh
-51%3A100_51%3A100_r
-	
-	sbatch extract.sh
+
+	cd 1%3A50_51%3A100_r
+	cd sbatch extract.sh
+
+	cd 51%3A100_51%3A100
+	cd sbatch extract.sh
+
+	cd 51%3A100_51%3A100_r
+	cd sbatch extract.sh
 
 
 They read in the files generated in the x_y_z_order_of_events_all_wn folder. The first thing to adjust is the extract.sh file to edit the following line:
