@@ -42,8 +42,9 @@ Wavenumber	 |   Count  | R-Center Calculated for the mode
 
 21.85	     |   124.0	| 3.5282975215294865
 
-**** Not all of the wavenumbers were considered here, because some of the really low wavenumber modes had intensities of 0 so there capability to control how many modes are used. 
+**** Not all of the wavenumbers were considered here, because some of the really low wavenumber modes had intensities of 0 so there capability to control how many modes are used.
 
+To study another molecule the number of atoms in the molecule is an important variable that would need to be defined as a variable and used to update certain numbers like 138, and 414 (3*138).
 
 To check that these orderings were correct I used a program called PyVibMS and it is important to check the orientation in the pymol viewer against the absolute axis in VMD https://github.com/smutao/PyVibMS
 
