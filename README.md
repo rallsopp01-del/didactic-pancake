@@ -80,7 +80,7 @@ They read in the files generated in the x_y_z_order_of_events_all_wn folder. The
 Where the 1 to 50 represents the lipids in the first leaflet of the bilayer. The initial code split the lipids into six groups (first leaflet to first leaflet, first leaflet to second leaflet, and second leaflet to second leaflet). 
 
 Addition to step 0 **
-It is easier to actually flip all the second leaflet lipids during the recentering step and treat them all the same rather than having several separate folders that treat different parts later. Then just use the one for loop for the whole bilayer. I included the actual workflow used as well as this implementable alternative. 
+It is easier to actually flip all the second leaflet lipids during the recentering step and treat them all the same rather than having several separate folders that treat different parts later. Then just use the one for loop for the whole bilayer. I included the actual workflow used as well as this implementable alternative. Right now the executables are set to 402 modes where there are 408 total modes (3*138-6) and I discarded six of the lowest wavenumber modes.
 
 Launching this extract.sh file generates an r2a.txt file that contains the following:
 
