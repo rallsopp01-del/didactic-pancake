@@ -155,6 +155,9 @@ df_zcoords.iloc[:,3]
 #The re-scaling occurs here with the offset of 40
 #Here P(k,j)=df_zcoords.iloc[:,3]
 df_zcoords=df_zcoords.iloc[:,3]-df_zcoords_whole.mean().values+40
+z_shift=df_zcoords_whole.mean().values
+#It can be useful to track the shift so that it can be undone
+np.savetxt('z_shift.txt', z_shift, delimiter=',')
 #c=normalized_df.multiply(df_zcoords.iloc[:,3], axis=0)  ##normalized_df
 c=normalized_df.multiply(df_zcoords.values, axis=0)  ##normalized_df
 #fraction of total motions// what is that
