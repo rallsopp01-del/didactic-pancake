@@ -52,6 +52,7 @@ To check that these orderings were correct I used a program called PyVibMS and i
 
 Step 2: 
 The next step occurs in the folders with the %3A
+
 	cd 1%3A50_1%3A50
 	sbatch extract.sh
 
